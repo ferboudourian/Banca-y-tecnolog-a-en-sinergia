@@ -1,1 +1,2 @@
 # Banca-y-tecnolog-a-en-sinergia
+Banking-as-a-Platform está transformando las finanzas, convirtiendo a los bancos en plataformas abiertas para integrar servicios financieros y no financieros. Este modelo fomenta la colaboración con fintechs y startups, creando soluciones personalizadas y accesibles. A pesar de los desafíos como la seguridad de datos y la resistencia al cambio, esta innovación ofrece un camino hacia un sector financiero más dinámico y eficiente.
